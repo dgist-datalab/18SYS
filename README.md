@@ -1,1 +1,1 @@
-# 18SYS_lab2
+# Linux Kernel .config file
